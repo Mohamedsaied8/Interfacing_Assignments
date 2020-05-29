@@ -1,0 +1,17 @@
+
+1) configure your account with the git tool
+
+git config --global user.name "..."
+git config --global user.email "youremail@gmail.com"
+
+
+2) use git clone to get a copy from the remote repo. ( on github)
+git clone URL.git
+
+3)put your files in the directory of the repo
+
+4) git add .    <<add all files in the directory
+
+5) git commit -m "message" << add message to the buffer
+6) git push -u origin master << upload files
+7)account user name ... and password of the remote account on host (github.com"
