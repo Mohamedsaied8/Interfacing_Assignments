@@ -14,4 +14,4 @@ git clone URL.git
 
 5) git commit -m "message" << add message to the buffer
 6) git push -u origin master << upload files
-7)account user name ... and password of the remote account on host (github.com"
+7)account user name ... and password of the remote account on host (github.com)
